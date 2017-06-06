@@ -11,7 +11,7 @@ public class InputDisplay
            /*user_input - object name                         */
            /*new Scanner - it's just there...                 */
            /*System.in - tells that this is an input in system*/
-                     
+           /*https://docs.oracle.com/javase/7/docs/api/java/util/Scanner.html */                   
            
            String first_name;
            System.out.print("Enter first name: ");
