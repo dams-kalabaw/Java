@@ -1,0 +1,5 @@
+import java.util.Scanner;
+public class StringVariables {
+  Scanner user_input = new Scanner( System.in );
+
+}
